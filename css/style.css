@@ -259,7 +259,7 @@ footer img
     float: left;
     margin-right: 25px;
 }
-@media screen and (max-width:1550px)
+@media screen and (max-width:800px)
 {
     .nav-links
     {
